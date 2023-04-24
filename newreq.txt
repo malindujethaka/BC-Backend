@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+wheel
+pandas
+opencv-python
+scikit-learn
+python-multipart
+tensorflow

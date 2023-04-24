@@ -1,0 +1,6 @@
+pip install fastapi
+pip install "uvicorn[standard]"
+pip install wheel
+pip install pandas
+pip install opencv-python
+pip install tensorflow
